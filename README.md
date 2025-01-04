@@ -8,7 +8,7 @@
 
   <p>I'm Murilo Oliveira <i><b>(aka oli)</b></i>, a Brazilian developer. 📚</p>
 
-  [![Linkedin Badge](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&labelColor=0a66c2&logoColor=black)](https://www.linkedin.com/in/murilo-o)&nbsp;
+  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&labelColor=0a66c2&logoColor=black)](https://www.linkedin.com/in/murilo-o)&nbsp;
   [![Dev.to Badge](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&labelColor=FFCC00&logoColor=black)](https://dev.to/olidev_)&nbsp;
   [![Medium Badge](https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail&labelColor=6e5494&logoColor=black)](mailto:muriloholiveira@hotmail.com)&nbsp;
 
