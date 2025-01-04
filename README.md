@@ -6,12 +6,10 @@
   Hi there! ✌️
   </h1>
 
-  <p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian developer. 📚</p>
+  <p>I'm Murilo Oliveira <i><b>(aka oli)</b></i>, a Brazilian developer. 📚</p>
 
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&labelColor=0a66c2&logoColor=black)](https://www.linkedin.com/in/murilo-o)&nbsp;
-  [![Dev.to Badge](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&labelColor=FFCC00&logoColor=black)](https://dev.to/akadot_)&nbsp;
-  [![Medium Badge](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&labelColor=00ab6c&logoColor=black)](https://medium.com/@akadot_)&nbsp;
-  [![Medium Badge](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&labelColor=ea4335&logoColor=black)](https://www.youtube.com/@dotdev_)&nbsp;
+  [![Dev.to Badge](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&labelColor=FFCC00&logoColor=black)](https://dev.to/olidev_)&nbsp;
   [![Medium Badge](https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail&labelColor=6e5494&logoColor=black)](mailto:muriloholiveira@hotmail.com)&nbsp;
 
 
@@ -66,18 +64,18 @@
 
   <h2>📓 Last Posts:</h2>
   
-  - **Como criar um README para o seu perfil do Github | [PT/BR](https://dev.to/akadot_/como-criar-um-readme-para-o-seu-perfil-do-github-404n) -- [EN](https://dev.to/akadot_/how-to-create-a-awesome-github-readme-4mb4)**
+  - **Como criar um README para o seu perfil do Github | [PT/BR](https://dev.to/olidev_/como-criar-um-readme-para-o-seu-perfil-do-github-404n) -- [EN](https://dev.to/olidev_/how-to-create-a-awesome-github-readme-4mb4)**
 
-  - **Criando o Jogo da Vida de John Conway com HTML, CSS e Javascript | [PT/BR](https://dev.to/akadot_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog) -- [EN](https://dev.to/akadot_/learning-html-css-and-javascript-vanilla-reproducing-the-john-conways-game-of-life-9pn)**
+  - **Criando o Jogo da Vida de John Conway com HTML, CSS e Javascript | [PT/BR](https://dev.to/olidev_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog) -- [EN](https://dev.to/olidev_/learning-html-css-and-javascript-vanilla-reproducing-the-john-conways-game-of-life-9pn)**
   
-  - **Culpa: A arte política de manipular a responsabilidade social | [Medium - PT/BR](https://medium.com/@akadot_/culpa-a-arte-pol%C3%ADtica-de-manipular-a-responsabilidade-social-65c0f19a363f)**
+  - **Culpa: A arte política de manipular a responsabilidade social | [Medium - PT/BR](https://medium.com/@murilo-oli/culpa-a-arte-pol%C3%ADtica-de-manipular-a-responsabilidade-social-65c0f19a363f)**
   
   <br/>  
  
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/akadot/akadot/blob/d17c842e1700a2930a312e9d264d28379c27ba5d/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/akadot/akadot/blob/d17c842e1700a2930a312e9d264d28379c27ba5d/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/akadot/akadot/blob/d17c842e1700a2930a312e9d264d28379c27ba5d/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/murilo-oli/murilo-oli/blob/d17c842e1700a2930a312e9d264d28379c27ba5d/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/murilo-oli/murilo-oli/blob/d17c842e1700a2930a312e9d264d28379c27ba5d/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/murilo-oli/murilo-oli/blob/d17c842e1700a2930a312e9d264d28379c27ba5d/github-contribution-grid-snake.svg" />
 </picture>
  
 </div>
